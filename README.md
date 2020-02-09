@@ -1,3 +1,13 @@
+dude! I'm following a tutorial (link bellow). Learning about PWA an lazy module loading. The magic is in App.tsx
+
+https://blog.logrocket.com/from-create-react-app-to-pwa/
+
+https://www.freecodecamp.org/news/how-to-use-react-lazy-and-suspense-for-components-lazy-loading-8d420ecac58/
+
+
+********************************************************
+REACT STUFF
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
